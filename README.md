@@ -1,2 +1,2 @@
 # hello-world
-Learning to use GitHub
+I am learning GitHub using GitHub's tutorial. I am currently making changes to the main branch 
